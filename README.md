@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Lucas Biscaino
 
-<!--
-**lbiscaino/lbiscaino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+<pre>
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let lucasBiscaino = new dev('Lucas Biscaino', 28, 'Front-end developer');
+      console.log(lucasBiscaino);
+```
+</pre>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasab)](https://github.com/lucasab)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bisacino-alves-72145170/)](https://www.linkedin.com/in/lucas-bisacino-alves-72145170/)
