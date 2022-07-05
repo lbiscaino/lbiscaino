@@ -1,7 +1,7 @@
 # Hi, I'm Lucas Biscaino
 
 ```
-<pre>
+
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
